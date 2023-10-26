@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438310898210",
+    "project_id": "dj-remix-full-bass-70f20",
+    "storage_bucket": "dj-remix-full-bass-70f20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438310898210:android:013fda463693c54cd5187b",
+        "android_client_info": {
+          "package_name": "com.svendaydev.djviralfullbass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438310898210-ppfnoicl2m0d4d90slhg4b5fpt0ouddn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg77enhUBQpOU0K_2lpfLXlNWEmBuz6PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438310898210-ppfnoicl2m0d4d90slhg4b5fpt0ouddn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
