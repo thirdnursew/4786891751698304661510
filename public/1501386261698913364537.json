@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493287388193",
+    "project_id": "gman-mod-for-gmod",
+    "storage_bucket": "gman-mod-for-gmod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493287388193:android:e9ee22a65ce9b1376e5f60",
+        "android_client_info": {
+          "package_name": "com.sikeciil.gmanmod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8dT10pUhCrDLqCNY8HcyKgMxkjo2TmiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
